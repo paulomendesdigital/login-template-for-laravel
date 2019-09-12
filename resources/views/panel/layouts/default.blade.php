@@ -23,7 +23,7 @@
 
     @stack('css')
 
-    <title>{{$title ?? 'Painel Administrativo - Internacional Administradora'}}</title>
+    <title>{{$title ?? 'Administrative Panel'}}</title>
 </head>
 
 <body>
