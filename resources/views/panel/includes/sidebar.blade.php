@@ -17,16 +17,6 @@
                         <a class="nav-link" href="{{url('/panel')}}"><i class="fas fa-fw fa-tachometer-alt"></i>Dashboard <span class="badge badge-success">6</span></a>
                     </li>
                     {{-- END DASHBOARD --}}
-
-
-                    {{-- ------------------------------------- --}}
-                    {{-- USUÁRIOS --}}
-                    {{-- END USUÁRIOS --}}
-
-
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{url('/panel/conf/edit/1')}}" ><i class="fas fa-fw fa-cog mr-2"></i>Configuração</a>
-                    </li>
                 </ul>
             </div>
         </nav>
