@@ -5,8 +5,8 @@
 <div class="splash-container">
     <div class="card ">
         <div class="card-header text-center">
-            <img class="logo-img mb-3" src="{{url('assets/panel/images/panel-logo.svg')}}" alt="logo"width="64">
-            <span class="splash-description">Por favor, insira suas informações</span>
+            <img class="logo-img mb-3" src="{{url('assets/all/images/logo-mobile.jpg')}}" alt="logo" width="64">
+            <span class="splash-description">{{ __('Please, insert the informations:') }}</span>
         </div>
 
         <div class="card-body">
